@@ -5,3 +5,6 @@
 
 Variable = "caleb ni puede hacer un commit"
 var2 = "ahora si?"
+Nueva_VARIABLE = "nueva"
+
+otra_variable= "otra"
